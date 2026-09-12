@@ -4,7 +4,6 @@ Tests for ImageLoader.
 import os
 import unittest
 import tempfile
-from scipy import misc
 import deepchem as dc
 import zipfile
 import numpy as np
